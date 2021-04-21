@@ -1,0 +1,11 @@
+cv2 == 4.4.0.46
+librosa == 0.8.0
+math
+numpy == 1.19.2
+os
+pickle
+PIL
+time
+torch == 1.7.1
+torchvision == 0.8.2
+
