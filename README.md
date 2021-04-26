@@ -4,7 +4,7 @@
 
 ## Tasks
 
-- The whole project can be divided into 3 parts. for detailed information, pleas turn to  `大作业要求.pdf`
+- The whole project can be divided into 3 parts. For detailed information, pleas turn to  `大作业要求.pdf`
 - **Dataset**
   - This dataset was an open-source project from `CMU`.
   - Objects are placed on an unstable platform that can create random vibrations, rendering the object to hit the bound.

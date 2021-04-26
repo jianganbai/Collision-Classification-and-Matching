@@ -1,4 +1,8 @@
 from all_net_def import *
+import sys
+sys.path.append('task1/')
+sys.path.append('task2/')
+sys.path.append('task3/')
 import t1_simple_CNN_3_test as t1_test
 import t2_top
 import t3_top
